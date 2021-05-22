@@ -25,4 +25,4 @@ my_list[[2]]
 my_list_slice <- my_list[[2]]
 my_list_slice
 my_list_slice[,3] 
-my_list_slice[2,3] fetch out 8
+my_list_slice[2,3] #fetch out 8
